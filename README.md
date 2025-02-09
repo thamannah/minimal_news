@@ -1,99 +1,91 @@
-# [Project Name] 🎯
 
+# Minimal News 
 
 ## Basic Details
-### Team Name: [Name]
-
+### Team Name: Minimal News
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- **Malavika M** - College of Engineering Perumon
+- **Thamanna N** - College of Engineering Perumon
+- **Krishna PV** - College of Engineering Perumon
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+[Add your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+Minimal News is a simple, clean, and minimalist web application that displays news headlines one at a time. It aims to provide a focused and calm reading experience, keeping users informed without overwhelming them.
 
-### The Problem statement
-[What ridiculous problem are you solving?]
+### The Problem Statement
+The problem we are solving is information overload. With so many news sources today, it’s easy to get overwhelmed with too much information. Our app makes it easy to stay updated with just one headline at a time.
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+We’ve created a minimalistic news reader that fetches the latest headlines and shows them one by one, allowing users to go through the news at their own pace. No distractions, just the news!
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- **Languages Used**: HTML, CSS, JavaScript
+- **Frameworks Used**: None
+- **Libraries Used**: None
+- **Tools Used**: Visual Studio Code
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- **List main components**: None (purely a web application)
 
 ### Implementation
 For Software:
-# Installation
-[commands]
+#### Installation
+```bash
+# Clone the repository
+git clone https://github.com/your-repository.git
 
-# Run
-[commands]
+# Navigate to the project folder
+cd minimal-news
+
+# Open the project in a code editor
+code .
+```
+
+#### Run
+```bash
+# Open index.html in your browser to view the project
+```
 
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
+#### Screenshots
 ![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+*Shows the landing page of the news app with a simple and clean interface.*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+*Displays the news article with a headline and description.*
 
 ![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+*Shows the next and previous buttons for easy navigation through articles.*
 
-# Diagrams
+#### Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+*The app fetches news data from an API, displays one article at a time, and allows the user to navigate through articles.*
 
 For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Team](Add photo of your team here)
-
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+#### Schematic & Circuit
+*No hardware components used in this project.*
 
 ### Project Demo
-# Video
+#### Video
 [Add your demo video link here]
-*Explain what the video demonstrates*
+*This demo video demonstrates how the Minimal News app works by fetching and displaying news articles one by one.*
 
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+### Team Contributions
+- **Malavika M**: Developed the frontend structure, implemented HTML/CSS layout.
+- **Thamanna N**: Designed the app's UI and helped with integrating the JavaScript functionality.
+- **Krishna PV**: Worked on connecting the app to a news API and ensuring smooth data flow.
 
 ---
 Made with ❤️ at TinkerHub
+
+---
+
+You can fill in the additional sections, like the hosted link, screenshots, and video demo, as needed. Let me know if you need any further adjustments!
