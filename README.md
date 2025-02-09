@@ -1,34 +1,34 @@
-# [Project Name] 🎯
+# [Minimal News] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Us Pookies]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Malavika M] -[ College of Engineering Perumon]
+- Member 2:[Thamanna N ] -[ College of Engineering Perumon]
+- Member 3: [Krishna PV ]-[ College of Engineering Perumon]
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+[https://minimal-news-gray.vercel.app/]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Minimal News is a simple, clean, and minimalist web application that displays news headlines one at a time. It aims to provide a focused and calm reading experience, keeping users informed without overwhelming them.]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[The problem we are solving is information overload. With so many news sources today, it’s easy to get overwhelmed with too much information. Our app makes it easy to stay updated with just one headline at a time.]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[We’ve created a minimalistic news reader that fetches the latest headlines and shows them one by one, allowing users to go through the news at their own pace. No distractions, just the news!]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [HTML, CSS, JavaScript]
+- [None]
+- [None]
+- [Visual Studio Code]
 
 For Hardware:
 - [List main components]
@@ -38,23 +38,28 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[commands]
+[# Clone the repository
+git clone https://github.com/your-repository.git
+
+# Navigate to the project folder
+cd minimal-news
+
+# Open the project in a code editor
+code .
+]
 
 # Run
-[commands]
+[# Open index.html in your browser to view the project
+]
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot 2025-02-09 092651](https://github.com/user-attachments/assets/00758663-ac60-4526-9cc4-3b842e39c2f9)
+![Screenshot 2025-02-09 092706](https://github.com/user-attachments/assets/7878d56e-a9fa-45f1-a3b6-941c6f569a20)
+![Screenshot 2025-02-09 092722](https://github.com/user-attachments/assets/97638f79-3efb-4ad3-bcd7-9e2ddcd008f1)
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -91,9 +96,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Malavika.M]: [Developed the frontend structure, implemented HTML/CSS layout.]
+- [Thamanna N]: [Stay Updated, One Headline at a Time.]
+- [Krishna.p.V]: []
 
 ---
 Made with ❤️ at TinkerHub
