@@ -55,14 +55,10 @@ code .
 For Software:
 
 #### Screenshots
-![Screenshot1](Add screenshot 1 here with proper name)
-*Shows the landing page of the news app with a simple and clean interface.*
+![Screenshot 2025-02-09 092651](https://github.com/user-attachments/assets/5051987c-c4f0-4cc0-80fe-780b47283aec)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Displays the news article with a headline and description.*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Shows the next and previous buttons for easy navigation through articles.*
+![Screenshot 2025-02-09 092706](https://github.com/user-attachments/assets/29cc51d0-3354-496c-8a2e-94c4b28b0b04)
+![Screenshot 2025-02-09 092722](https://github.com/user-attachments/assets/f9d06fc5-1966-4a91-8fcd-6e7dde8835e2)
 
 #### Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
