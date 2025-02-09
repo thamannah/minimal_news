@@ -10,7 +10,7 @@
 - **Krishna PV** - College of Engineering Perumon
 
 ### Hosted Project Link
-[Add your project hosted project link here]
+[minimal-news-gray.vercel.app]
 
 ### Project Description
 Minimal News is a simple, clean, and minimalist web application that displays news headlines one at a time. It aims to provide a focused and calm reading experience, keeping users informed without overwhelming them.
